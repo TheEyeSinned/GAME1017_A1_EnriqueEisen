@@ -1,0 +1,4 @@
+﻿  PlayScene.cpp
+C:\Users\eisen\Desktop\School Crap\NEW SHIT\Assignment3-GamePhysics\src\PlayScene.cpp(160,38): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\eisen\Desktop\School Crap\NEW SHIT\Assignment3-GamePhysics\src\PlayScene.cpp(169,38): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Template.vcxproj -> C:\Users\eisen\Desktop\School Crap\NEW SHIT\Assignment3-GamePhysics\bin\Debug\Template.exe
